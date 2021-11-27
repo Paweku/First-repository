@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paweku
 - 👀 I’m interested in php, lua , c++ , c#
 - 🌱 I’m currently learning html, css
-- 📫 How to reach me kontakt@cutestories.pl
+- 📫 How to reach me gubernatpawel89@gmail.com
 
 <!---
 Paweku/Paweku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
