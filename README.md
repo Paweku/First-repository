@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paweku
-- 👀 I’m interested in php, lua , html
-- 🌱 I’m currently learning html, css
+- 👀 I’m interested in php, lua , html, c++, c#
+- 🌱 I’m currently learning c++, c#
 - 📫 How to reach me gubernatpawel89@gmail.com
 
 <!---
